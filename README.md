@@ -4,6 +4,7 @@
 
   ## Description
  A Node.js application that asks for your input and creates an HTML page with it. The app is running from the command line to provide and then recieve a serious of answers from  provided questions. Once the neccessary arguments are reacieved from the client-side, a webpage will be generated dynamically from the detail information gatehred from the client. This app is created based on the Vital Node.js to demonstrate its powerful capability of being a run time environment to perfom web applications. The back end is well organised to follow the best practice of handling data and data transfer.
+ 
  ![image](https://user-images.githubusercontent.com/84083304/155044962-1054e050-3049-49a6-a73d-bb169f5ab515.png)
    
   ## Credits
