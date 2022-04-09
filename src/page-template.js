@@ -97,4 +97,4 @@ const generatePage = templateData => {
   `;
 };
 
-module.exports = generatePage
+module.exports = generatePage;
